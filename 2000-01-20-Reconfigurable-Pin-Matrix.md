@@ -4,7 +4,7 @@ title: Reconfigurable Pin Matrix
 description: An ideal reconfigurable pin matrix would be able to morph a set of surfaces to take any shape on the fly. This would be ideal for any manufacturing process that relies on molds.
 date: 2000-01-20 09:00:00
 hero_image: /web/img/Reconfigurable-Pin-Matrix/Hero.png
-image: /web/img/Reconfigurable-Pin-Matrix/Hero.png
+# image /web/img/Reconfigurable-Pin-Matrix/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
