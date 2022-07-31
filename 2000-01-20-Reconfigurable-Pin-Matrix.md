@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Adam Lowery
-Joshua Moser
+author: Adam Lowery, Joshua Moser
 show_sidebar: false
 ---
 
