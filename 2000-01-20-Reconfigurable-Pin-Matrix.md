@@ -21,7 +21,7 @@ Adam Lowery
 Joshua Moser
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Reconfigurable-Pin-Matrix"" >Reconfigurable-Pin-Matrix</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Reconfigurable-Pin-Matrix" >Reconfigurable-Pin-Matrix</a>
 
 ## Photo
 
